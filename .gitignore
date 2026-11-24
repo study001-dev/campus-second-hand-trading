@@ -1,0 +1,33 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java / Maven
+school-trade-backend/target/
+*.class
+
+# Node
+node_modules/
+dist/
+
+# 答辩 PPT（含小组成员真实姓名，出于隐私保护不入库）
+*.pptx
+
+# 未被数据库演示数据引用的本地图片
+pic/file168663143432210030.png
+pic/file168663143432210031.jpg
+pic/file16868385096121002运动鞋.jpg
+pic/file16868385807991003风扇.jpg
+pic/file16868386408251004file16513152624181010加湿器.jpg
+pic/file16868387852141005file16527758200311002考研单词书.jpg
+pic/file17363269921571002OIP-C (1).jpg
+pic/file17363270687871003OIP-C (1).jpg
+pic/file17363305403461007R-C.png
+
+# 日志与临时文件
+*.log
